@@ -40,7 +40,7 @@ function App() {
 
 export default App;
 ```
-![alt text](https://github.com/crack-byte/react-components/blob/master/img.png?raw=true)
+![alt text](https://github.com/crack-byte/react-components/blob/master/public/img.png?raw=true)
 
 ## Contributing
 
