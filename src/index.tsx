@@ -25,7 +25,7 @@ export const ChatBox = ({ messageList }: ChatBoxProp) => {
   const handleMessageSubmit = (e: any) => {
     e.preventDefault()
     if (inputText.trim() !== '') {
-      setMessages([...messages, { text: inputText, name: 'Leo' }])
+      setMessages([...messages, { text: inputText, name: 'You' }])
       setInputText('')
     }
   }
