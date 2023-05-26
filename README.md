@@ -2,7 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/crack-byte/react-components/blob/master/LICENSE)
 
-Welcome to the React Components repository! This repository contains a collection of reusable React components developed by Crack Byte. These components can be used to enhance your React projects and speed up your development process.
+Welcome to the React Components repository! This repository contains a collection of reusable React components developed by me.
+This library is for the purpose of learning basics of reactjs.So this repo is open for any type of contribution.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -40,7 +41,12 @@ function App() {
 
 export default App;
 ```
+<div style="text-align: center;">
+
 ![alt text](https://github.com/crack-byte/react-components/blob/master/public/img.png?raw=true)
+
+</div>
+
 
 ## Contributing
 
@@ -54,3 +60,8 @@ We welcome contributions from the community to improve and add new features to t
 
 ## License
 This project is licensed under the MIT License. Feel free to use the React Components in your projects, both personal and commercial. Attribution is not required but appreciated.
+
+### Reference
+
+- [create-react-library](https://github.com/transitive-bullshit/create-react-library)
+   is a library good for beginners for creating a reactjs library.
